@@ -104,5 +104,5 @@ It includes data cleaning, analysis, dashboard creation, and storytelling using 
 
 📬 Contact
 
-- Email: (Add your email)
-- LinkedIn: (Add your LinkedIn profile link)
+- Email: kupendrareddy124@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kupendra-reddy-17472430a
